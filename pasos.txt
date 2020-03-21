@@ -1,0 +1,2 @@
+armado               0001plasticos            0020
+secado               0002null                     
